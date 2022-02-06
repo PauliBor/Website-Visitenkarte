@@ -1,0 +1,23 @@
+img {
+  width: 200px;
+}
+
+p {
+  color: black;
+}
+
+li {
+  color: black;
+}
+
+a {
+  color: black;
+}
+table,td,tr {
+  border: 1px solid black;
+  border-collapse: collapse;
+  color: black;
+}
+body {
+  background-color: #d1e0e0;
+}
